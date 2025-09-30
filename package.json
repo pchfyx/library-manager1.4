@@ -1,0 +1,16 @@
+{
+  "name": "personal-library-manager",
+  "version": "1.0.0",
+  "description": "Personal Library Manager with Firebase Authentication",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s . -p $PORT",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
